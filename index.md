@@ -1,16 +1,15 @@
 ---
 ---
 
-# bddaax's OS242 page:
+# OS242 
 
-[GitHub](https://github.com/bddaax/os242/)
-<br>
+bddaax's page:
+
+Check this out!
 GITHUB : [GitHub](https://github.com/bddaax/os242/)
-<br>
-LINKS : [LINKS](https://github.com/bddaax/os242/blob/master/links.md))
-<br>
+LINKS : [LINKS](https://github.com/bddaax/os242/blob/master/links.md)
 LOG : [LOG](https://bddaax.github.io/os242/TXT/mylog.txt)
-<br>
+
 
 <br>
 To Get BDDAAX's TARBALL:
