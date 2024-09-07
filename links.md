@@ -7,7 +7,8 @@ permalink: LINKS/
 # LINKS
 
 
-* [https://osp4diss.vlsm.org/ETC/logCOdes.txt](https://osp4diss.vlsm.org/ETC/logCodes.txt) --- Log Codes
+* [Log Codes to Update MYLOG.TXT](https://osp4diss.vlsm.org/ETC/logCodes.txt) --- Log Codes
+
 
 
 * [Operating Systems](https://os.vlsm.org/) ---
