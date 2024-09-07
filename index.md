@@ -3,7 +3,9 @@
 
 # OS242 : bddax's page
 
-Check this out!\n
+Check this out!
+
+
 GITHUB : [GitHub](https://github.com/bddaax/os242/)
 LINKS : [LINKS](https://github.com/bddaax/os242/blob/master/links.md)
 LOG : [LOG](https://bddaax.github.io/os242/TXT/mylog.txt)
