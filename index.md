@@ -4,8 +4,11 @@
 # OS242: BDDAAX
 
 [GitHub](https://github.com/bddaax/os242/)
+<br>
 [LINKS](LINKS/)
+<br>
 [LOG](TXT/mylog.txt)
+<br>
 [TIPS](TIPS/)
 
 <br>
