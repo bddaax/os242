@@ -1,18 +1,20 @@
 ---
 ---
 
-# OS242: BDDAAX
+# bddaax's OS242 page:
 
-[GitHub](https://github.com/bddaax/os242/)
+bddaax's link 
 <br>
-[LINKS](LINKS/)
+GITHUB : [GitHub](https://github.com/bddaax/os242/)
 <br>
-[LOG](TXT/mylog.txt)
+LINKS : [LINKS](LINKS/)
 <br>
-[TIPS](TIPS/)
+LOG : [LOG](TXT/mylog.txt)
+<br>
+TIPS : [TIPS](TIPS/)
 
 <br>
-### To Get BDDAAX's TARBALL:
+To Get BDDAAX's TARBALL:
 
 ```
 wget -c https://os.vlsm.org/Log/bddaax.tar.xz.txt
@@ -20,5 +22,5 @@ wget -c https://os.vlsm.org/Log/bddaax.tar.xz.txt
 ```
 
 <br>
-#### REV: Sat 07 Sep 2024 21:00
+REV: Sat 07 Sep 2024 21:00
 <br>
