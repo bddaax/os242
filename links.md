@@ -6,6 +6,10 @@ permalink: LINKS/
 
 # LINKS
 
+
+* [https://osp4diss.vlsm.org/ETC/logCOdes.txt](https://osp4diss.vlsm.org/ETC/logCodes.txt) --- Log Codes
+
+
 * [Operating Systems](https://os.vlsm.org/) ---
   This site contains links to lecture materials, exam questions, and laboratory materials.
 * [System Programming](https://sp.vlsm.org/) ---
