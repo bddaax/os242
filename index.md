@@ -3,7 +3,7 @@
 
 # OS242: BDDAAX
 
-[TIPS](TIPS/){:target="_blank"} --- [LINKS](LINKS/){:target="_blank"} --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/bddaax/os242/){:target="_blank"}
+[TIPS](TIPS/){:target="_blank"} --- [LINKS](LINKS/) links.md --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/bddaax/os242/){:target="_blank"}
 
 <br>
 ### To Get BDDAAX's TARBALL:
