@@ -4,11 +4,11 @@
 # bddaax's OS242 page:
 
 <br>
-GITHUB : [GitHub](https://github.com/bddaax/os242/)
+GITHUB : [GITHUB](https://github.com/bddaax/os242/)
 <br>
-LINKS : [LINKS]([LINKS/](https://github.com/bddaax/os242/blob/master/links.md))
+LINKS : [LINKS](https://github.com/bddaax/os242/blob/master/links.md))
 <br>
-LOG : [LOG]([TXT/mylog.txt](https://bddaax.github.io/os242/TXT/mylog.txt))
+LOG : [LOG](https://bddaax.github.io/os242/TXT/mylog.txt)
 <br>
 
 <br>
