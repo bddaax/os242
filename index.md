@@ -3,8 +3,9 @@
 
 # bddaax's OS242 page:
 
+[GitHub](https://github.com/bddaax/os242/)
 <br>
-GITHUB : [GITHUB](https://github.com/bddaax/os242/)
+GITHUB : [GitHub](https://github.com/bddaax/os242/)
 <br>
 LINKS : [LINKS](https://github.com/bddaax/os242/blob/master/links.md))
 <br>
