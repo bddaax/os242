@@ -6,9 +6,9 @@
 <br>
 GITHUB : [GitHub](https://github.com/bddaax/os242/)
 <br>
-LINKS : [LINKS](LINKS/)
+LINKS : [LINKS]([LINKS/](https://github.com/bddaax/os242/blob/master/links.md))
 <br>
-LOG : [LOG](TXT/mylog.txt)
+LOG : [LOG]([TXT/mylog.txt](https://bddaax.github.io/os242/TXT/mylog.txt))
 <br>
 
 <br>
@@ -19,9 +19,6 @@ wget -c https://os.vlsm.org/Log/bddaax.tar.xz.txt
 
 ```
 
-<br>
-REV: Sat 07 Sep 2024 21:00
-<br>
 
 
 
