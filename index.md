@@ -1,7 +1,7 @@
 ---
 ---
 
-# OS242 : bddaax's page
+# Welcome to OS242 : bddaax's page
 
 
 GITHUB : [GitHub](https://github.com/bddaax/os242/)
