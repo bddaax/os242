@@ -3,7 +3,6 @@
 
 # bddaax's OS242 page:
 
-bddaax's link 
 <br>
 GITHUB : [GitHub](https://github.com/bddaax/os242/)
 <br>
