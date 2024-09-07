@@ -48,5 +48,5 @@ ZCZC W01 360 L80 Waching: Movie, YouTube, Netflix, etc.
 ZCZC W01 3000 L81 Listening: Music
 ZCZC W01 2500 L82 Reading Book (online)
 ZCZC W00 2520 L84 Relax, Rest, Nap, and Sleep
-ZCZC W01 49 L87 Lunch with friend! nyamm..
-ZCZC W01 40 L88 Workout : Walking with friend! (HER github ---> mdlnecg)
+ZCZC W01 274 L87 Lunch with friend! nyamm..
+ZCZC W01 110 L88 Workout : Walking with friend! (HER github ---> mdlnecg)
