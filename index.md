@@ -3,13 +3,16 @@
 
 # OS242: BDDAAX
 
-[TIPS](TIPS/){:target="_blank"} --- [LINKS](LINKS/) links.md --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/bddaax/os242/){:target="[_blank](https://github.com/bddaax/os242/)"}
+[GitHub](https://github.com/bddaax/os242/)
+[LINKS](LINKS/)
+[LOG](TXT/mylog.txt)
+[TIPS](TIPS/)
 
 <br>
 ### To Get BDDAAX's TARBALL:
 
 ```
-[wget -c https://bddaax.github.io/os242/](https://github.com/bddaax/os242.git)
+wget -c https://os.vlsm.org/Log/bddaax.tar.xz.txt
 
 ```
 
