@@ -6,12 +6,6 @@ permalink: LINKS/
 
 # LINKS
 
-
-* [Log Codes to Update MYLOG.TXT](https://osp4diss.vlsm.org/ETC/logCodes.txt) --- Log Codes
-
-
-
-
 * [Operating Systems](https://os.vlsm.org/) ---
   This site contains links to lecture materials, exam questions, and laboratory materials.
 * [System Programming](https://sp.vlsm.org/) ---
@@ -23,6 +17,13 @@ permalink: LINKS/
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) ---
 Some easy-to-use commands you can use to inspect hardware. 
 These commands will help you list PCI devices, view information about your CPU, and more.
+
+
+
+[Log Codes to Update MYLOG.TXT](https://osp4diss.vlsm.org/ETC/logCodes.txt) --- Log Codes
+
+
+
 <br>
 <br>
 REV: Sat 07 Sep 2024 21:00
