@@ -33,9 +33,9 @@ ZCZC   W01      800        L82       Reading Book (online)
 ZCZC   W00     2400        L84       Relax, Rest, Nap, and Sleep
 ZCZC   W01      274        L87       Lunch with friend! nyamm..
 ZCZC   W01      120        L88       Workout : Walking with friend! (HER github ---> mdlnecg)
-ZCZC   W01      300        L99       Studying in the study room until 10 pm to meet the deadline
-                                     for the linear algebra assignment (with mdlnecg again)
-ZCZC   W01        3        L99       Opang convoy (with mdlnecg again pt 2) coz we're late
+ZCZC   W01      300        L99       Stu(dying) in the study room until 10pm, working on 
+                                     linear algebra assignments (with mdlnecg AGAIN)
+ZCZC   W01        3        L99       Opang convoy (with mdlnecg AGAIN PT 2) coz we're late
 ==============================================================================================
 
 =========================================== WEEK 1 ===========================================
