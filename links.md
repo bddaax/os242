@@ -27,5 +27,5 @@ You should watch the first 30 seconds of chapters 2 to 30. For the chapter time 
 
 <br>
 <br>
-REV: Sat 07 Sep 2024 21:00
+REV: Mon 23 Sep 2024 13:00
 <hr>
