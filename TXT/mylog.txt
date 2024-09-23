@@ -1,6 +1,42 @@
                                             # Log Format
                           # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+=========================================== WEEK 3 ===========================================
+ZCZC   WEEK   Minutes   LogCode        Description
+----------------------------------------------------------------------------------------------
+ZCZC   W03       10        L00       General, etc.
+ZCZC   W03      100        L01       SCELE related
+ZCZC   W03      100        L02       Attended class on Monday, 16 September 2024
+ZCZC   W03      100        L02       Attended class on Wednesday, 18 September 2024
+ZCZC   W03     4080        L03       GitHub related
+ZCZC   W03      120        L04       GitHub Pages related
+ZCZC   W03       60        L08       OS Chat related (WA, LINE) with Friend
+ZCZC   W03       15        L11       Finish Week 03 Assignment #01
+ZCZC   W03       15        L12       Finish Week 03 Assignment #02
+ZCZC   W03       15        L13       Finish Week 03 Assignment #03
+ZCZC   W03       15        L14       Finish Week 03 Assignment #04
+ZCZC   W03       60        L15       Finish Week 03 Assignment #05
+ZCZC   W03       20        L41       TXT/mylog.txt related
+ZCZC   W03      105        L21       Trying something
+ZCZC   W03       15        L23       Bash
+ZCZC   W03      120        L24       Scripting in general
+ZCZC   W03      120        L26       GnuPG, key-gen, encrypt/decrypt
+ZCZC   W03       60        L32       YouTube: watching OS related topics, etc.
+ZCZC   W03      240        L40       TXT/ related in general
+ZCZC   W03       40        L41       TXT/mylog.txt related
+ZCZC   W03       40        L43       TXT/myrank.tex related, including peer review
+ZCZC   W03     1500        L70       Studying for other courses
+ZCZC   W03      480        L80       Waching: Movie, YouTube, Netflix, etc.
+ZCZC   W03     4000        L81       Listening: Music
+ZCZC   W03      360        L82       Reading Book (online)
+ZCZC   W03     2320        L84       Relax, Rest, Nap, and Sleep
+ZCZC   W03      274        L87       Lunch with friend! nyamm..
+ZCZC   W03      120        L88       Workout : Walking with friend! (HER github ---> mdlnecg)
+ZCZC   W03       15        L99       Watch people watch ishowspeed 
+ZCZC   W03       40        L99       Make tiktok with MnM (MED n Michel)
+ZCZC   W03      150        L99       Last DDP-0 Mentoring ｡°(°.◜ᯅ◝°)°｡ 
+ZCZC   W03      120        L99       Playing with kiddzzz in Sunday school (so happpyyyy)
+==============================================================================================
 
 =========================================== WEEK 2 ===========================================
 ZCZC   WEEK   Minutes   LogCode        Description
@@ -13,9 +49,15 @@ ZCZC   W02     5040        L03       GitHub related
 ZCZC   W02      120        L04       GitHub Pages related
 ZCZC   W02       30        L05       QUIZ related including studying
 ZCZC   W02      360        L08       OS Chat related (WA, LINE) with Friend
-ZCZC   W02      720        L10       Finish Assignments #02
+ZCZC   W02       20        L11       Finish Week 02 Assignment #01
+ZCZC   W02      100        L12       Finish Week 02 Assignment #02
+ZCZC   W02       20        L13       Finish Week 02 Assignment #03
+ZCZC   W02       30        L14       Finish Week 02 Assignment #04
+ZCZC   W02      150        L15       Finish Week 02 Assignment #05
+ZCZC   W02      150        L16       Finish Week 02 Assignment #06
+ZCZC   W02      150        L17       Finish Week 02 Assignment #07
 ZCZC   W02       20        L41       TXT/mylog.txt related
-ZCZC   WO2       75        L21       Trying something
+ZCZC   W02       75        L21       Trying something
 ZCZC   W02      120        L23       Bash
 ZCZC   W02      120        L24       Scripting in general
 ZCZC   W02      360        L26       GnuPG, key-gen, encrypt/decrypt
@@ -25,7 +67,7 @@ ZCZC   W02       40        L41       TXT/mylog.txt related
 ZCZC   W02      120        L42       TXT/mypubkey.txt related
 ZCZC   W02       30        L43       TXT/myrank.tex related, including peer review
 ZCZC   W02       40        L44       TXT/myscript.sh related
-ZCZC   W02      60        L45       TXT/SHA256SUM related
+ZCZC   W02       60        L45       TXT/SHA256SUM related
 ZCZC   W02     1500        L70       Studying for other courses
 ZCZC   W02      360        L80       Waching: Movie, YouTube, Netflix, etc.
 ZCZC   W02     3400        L81       Listening: Music, Musik Kantin (with Abel <3)
@@ -49,9 +91,13 @@ ZCZC   W01       20        L03       GitHub related
 ZCZC   W01      120        L04       GitHub Pages related
 ZCZC   W01       30        L05       QUIZ related including studying
 ZCZC   W01     5040        L08       OS Chat related (WA, LINE) with Friend
-ZCZC   W01      480        L10       Finish Assignments #01
+ZCZC   W01      280        L11       Finish Week 01 Assignment #01
+ZCZC   W01       50        L12       Finish Week 01 Assignment #02
+ZCZC   W01       50        L13       Finish Week 01 Assignment #03
+ZCZC   W01       50        L14       Finish Week 01 Assignment #04
+ZCZC   W01       50        L15       Finish Week 01 Assignment #05
 ZCZC   W01       20        L41       TXT/mylog.txt related
-ZCZC   WO1       75        L21       Trying something
+ZCZC   W01       75        L21       Trying something
 ZCZC   W01       60        L23       Bash
 ZCZC   W01      180        L27       SSH
 ZCZC   W01      500        L31       VirtualBox: install GNU/Linux, etc.
@@ -81,13 +127,18 @@ ZCZC   W00       30        L05       QUIZ related including studying
 ZCZC   W00       30        L06       References/Books/Documents/Browsing/GSGS related
 ZCZC   W00     5040        L08       OS Chat related (WA, LINE) with Friend
 ZCZC   W00       60        L09       Assignments in General
-ZCZC   W00       60        L10       Finish Assignments #00
-ZCZC   WOO       75        L21       Trying something
+ZCZC   W00       20        L11       Finish Week 00 Assignment #01
+ZCZC   W00       20        L12       Finish Week 00 Assignment #02
+ZCZC   W00       20        L13       Finish Week 00 Assignment #03
+ZCZC   W00       20        L14       Finish Week 00 Assignment #04
+ZCZC   W00       10        L15       Finish Week 00 Assignment #05
+ZCZC   W00       10        L16       Finish Week 00 Assignment #06
+ZCZC   W00       75        L21       Trying something
 ZCZC   W00       40        L41       TXT/mylog.txt related
 ZCZC   W00       15        L60       Restore and Backup Laptop
 ZCZC   W00       99        L70       Studying for other courses
 ZCZC   W00      500        L73       Gaming
-ZCZC   WOO       99        L80       Waching: Movie, YouTube, Netflix
+ZCZC   W00       99        L80       Waching: Movie, YouTube, Netflix
 ZCZC   W00     6000        L81       Listening: Music on Spotify
 ZCZC   W00     1000        L82       Reading Book (online)
 ZCZC   W00     2100        L84       Relax, Rest, Nap, and Sleep
