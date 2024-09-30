@@ -1,6 +1,46 @@
                                             # Log Format
                           # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+=========================================== WEEK 4 ===========================================
+ZCZC   WEEK   Minutes   LogCode        Description
+----------------------------------------------------------------------------------------------
+ZCZC   W04       10        L00       General, etc.
+ZCZC   W04      100        L01       SCELE related
+ZCZC   W04      100        L02       Attended class on Wednesday, 23 September 2024
+ZCZC   W04      100        L02       Attended class on Monday, 30 September 2024
+ZCZC   W04     3000        L03       GitHub related
+ZCZC   W04       60        L04       GitHub Pages related
+ZCZC   W04       60        L08       OS Chat related (WA, LINE) with Friend
+ZCZC   W04       15        L11       Finish Week 04 Assignment #01
+ZCZC   W04       15        L12       Finish Week 04 Assignment #02
+ZCZC   W04       15        L13       Finish Week 04 Assignment #03
+ZCZC   W04       15        L14       Finish Week 04 Assignment #04
+ZCZC   W04       60        L15       Finish Week 04 Assignment #05
+ZCZC   W04       20        L41       TXT/mylog.txt related
+ZCZC   W04      105        L21       Trying something
+ZCZC   W04       15        L23       Bash
+ZCZC   W04      120        L24       Scripting in general
+ZCZC   W04       60        L25       C-Language
+ZCZC   W04      120        L26       GnuPG, key-gen, encrypt/decrypt
+ZCZC   W04      120        L30       Study
+ZCZC   W04       60        L32       YouTube: watching OS related topics, etc.
+ZCZC   W04      240        L40       TXT/ related in general
+ZCZC   W04       40        L41       TXT/mylog.txt related
+ZCZC   W04       40        L43       TXT/myrank.tex related, including peer review
+ZCZC   W04     1800        L70       Studying for other courses
+ZCZC   W04       90        L73       Play pos game
+ZCZC   W04      480        L80       Waching: Movie, YouTube, Netflix, etc.
+ZCZC   W04     3060        L81       Listening: Music
+ZCZC   W04      400        L82       Reading Book (online)
+ZCZC   W04     1800        L84       Relax, Rest, Nap, and Sleep
+ZCZC   W04      360        L87       Lunch with friend! nyamm..
+ZCZC   W04      120        L88       Workout : Walking with friend! (HER github ---> mdlnecg)
+ZCZC   W04      450        L99       Having a Mental Health Lesson : Managing Stress, Anxiety
+ZCZC   W04     1440        L99       Regional Camp 
+ZCZC   W04      120        L99       Night Night hang out with TSA UI, ITB, and IPB 
+ZCZC   W04       60        L99       Having a Self Talk Session : Ho'oponopono
+==============================================================================================
+
 =========================================== WEEK 3 ===========================================
 ZCZC   WEEK   Minutes   LogCode        Description
 ----------------------------------------------------------------------------------------------
