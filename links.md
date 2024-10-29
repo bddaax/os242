@@ -66,8 +66,15 @@ permalink: LINKS/
   
 </details>
 
+
+<details>
+  <summary>WEEK 06</summary>
+
+  * [The fork() function in C](https://youtu.be/cex9XrZCU14?si=m-ri2fcn3MPm1eJs)
+
+</details>
+
 <br>
 <br>
 REV: Mon 07 Oct 2024 11:30
 <hr>
-

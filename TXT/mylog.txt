@@ -1,22 +1,59 @@
                                             # Log Format
                           # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+=========================================== WEEK 6 ===========================================
+ZCZC   WEEK   Minutes   LogCode        Description
+----------------------------------------------------------------------------------------------
+ZCZC   W06       10        L00       General, etc.
+ZCZC   W06      100        L01       SCELE related
+ZCZC   W06      100        L02       Attended class on Wednesday, 23 October 2024
+ZCZC   W06      100        L02       Attended class on Monday, 28 October 2024
+ZCZC   W06     3000        L03       GitHub related
+ZCZC   W06       60        L04       GitHub Pages related
+ZCZC   W06       60        L08       OS Chat related (WA, LINE) with Friend
+ZCZC   W06       15        L11       Finish Week 06 Assignment #01
+ZCZC   W06       15        L12       Finish Week 06 Assignment #02
+ZCZC   W06       15        L13       Finish Week 06 Assignment #03
+ZCZC   W06       15        L14       Finish Week 06 Assignment #04
+ZCZC   W06       60        L15       Finish Week 06 Assignment #05
+ZCZC   W06       20        L41       TXT/mylog.txt related
+ZCZC   W06      240        L21       Trying something
+ZCZC   W06      100        L23       Bash
+ZCZC   W06      100        L24       Scripting in general
+ZCZC   W06       90        L25       C-Language
+ZCZC   W06       30        L26       GnuPG, key-gen, encrypt/decrypt
+ZCZC   W06      300        L30       Study
+ZCZC   W06      120        L32       YouTube: watching OS related topics, etc.
+ZCZC   W06      240        L40       TXT/ related in general
+ZCZC   W06       60        L41       TXT/mylog.txt related
+ZCZC   W06       40        L43       TXT/myrank.tex related, including peer review
+ZCZC   W06     4000        L70       Studying for other courses
+ZCZC   W06      180        L80       Waching: YouTube: Olim, Netflix: Horror movie.
+ZCZC   W06     3000        L81       Listening: Music
+ZCZC   W06     1000        L84       Relax, Rest, Nap, and Sleep
+ZCZC   W06      360        L87       Lunch with friend! nyamm..
+ZCZC   W06      120        L88       Workout : Walking alone (mdlnecg <-- busy)
+ZCZC   W06     3240        L99       Sit in front of the computer 18 hours a day to work on PBP (x3)
+ZCZC   W06      120        L99       Playing with kiddzzz in Sunday school (so happpyyy^9999)
+ZCZC   W06      120        L99       Me time ⋆. 𐙚 ˚
+==============================================================================================
+
 =========================================== WEEK 5 ===========================================
 ZCZC   WEEK   Minutes   LogCode        Description
 ----------------------------------------------------------------------------------------------
 ZCZC   W05       10        L00       General, etc.
 ZCZC   W05      100        L01       SCELE related
-ZCZC   W05      100        L02       Attended class on Wednesday, 23 September 2024
-ZCZC   W05      100        L02       Attended class on Monday, 30 September 2024
+ZCZC   W05      100        L02       Attended class on Wednesday, 14 October 2024
+ZCZC   W05      100        L02       Attended class on Monday, 16 October 2024
 ZCZC   W05     3000        L03       GitHub related
 ZCZC   W05       60        L04       GitHub Pages related
 ZCZC   W05       60        L08       OS Chat related (WA, LINE) with Friend
-ZCZC   W05       15        L11       Finish Week 04 Assignment #01
-ZCZC   W05       15        L12       Finish Week 04 Assignment #02
-ZCZC   W05       15        L13       Finish Week 04 Assignment #03
-ZCZC   W05       15        L14       Finish Week 04 Assignment #04
-ZCZC   W05       60        L15       Finish Week 04 Assignment #05
-ZCZC   W05       60        L16       Finish Week 04 Assignment #06
+ZCZC   W05       15        L11       Finish Week 05 Assignment #01
+ZCZC   W05       15        L12       Finish Week 05 Assignment #02
+ZCZC   W05       15        L13       Finish Week 05 Assignment #03
+ZCZC   W05       15        L14       Finish Week 05 Assignment #04
+ZCZC   W05       60        L15       Finish Week 05 Assignment #05
+ZCZC   W05       60        L16       Finish Week 05 Assignment #06
 ZCZC   W05       20        L41       TXT/mylog.txt related
 ZCZC   W05      120        L21       Trying something
 ZCZC   W05      120        L23       Bash
@@ -42,7 +79,7 @@ ZCZC   W05      100        L99       Planting Mangrove (Rhizophora sp.)
 ZCZC   W05       60        L99       Having a Mangrove Lesson 
 ZCZC   W05       15        L99       Try Syrup from Mangrove Plants, Pedada (Sonneratia Alba)
 ZCZC   W05       15        L99       Try various kinds of Snacks from Mangrove Plants
-ZCZC   W03      120        L99       Playing with kiddzzz in Sunday school (so happpyyy^9999)
+ZCZC   W05      120        L99       Playing with kiddzzz in Sunday school (so happpyyy^9999)
 ==============================================================================================
 
 =========================================== WEEK 4 ===========================================
