@@ -1,6 +1,43 @@
                                             # Log Format
                           # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+=========================================== WEEK 7 ===========================================
+ZCZC   WEEK   Minutes   LogCode        Description
+----------------------------------------------------------------------------------------------
+ZCZC   W07       10        L00       General, etc.
+ZCZC   W07      100        L01       SCELE related
+ZCZC   W07      100        L02       Attended class on Wednesday, 30 October 2024
+ZCZC   W07      100        L02       Attended class on Monday, 4 November 2024
+ZCZC   W07     1000        L03       GitHub related
+ZCZC   W07       60        L04       GitHub Pages related
+ZCZC   W07      100        L08       OS Chat related (WA, LINE) with Friend
+ZCZC   W07       15        L11       Finish Week 07 Assignment #01
+ZCZC   W07       25        L12       Finish Week 07 Assignment #02
+ZCZC   W07       60        L13       Finish Week 07 Assignment #03
+ZCZC   W07       40        L14       Finish Week 07 Assignment #04
+ZCZC   W07       25        L41       TXT/mylog.txt related
+ZCZC   W07      240        L21       Trying something
+ZCZC   W07       10        L23       Bash
+ZCZC   W07      100        L24       Scripting in general
+ZCZC   W07       40        L25       C-Language
+ZCZC   W07       60        L27       SSH
+ZCZC   W07      300        L30       Study
+ZCZC   W07      180        L32       YouTube: watching OS related topics, etc.
+ZCZC   W07      240        L40       TXT/ related in general
+ZCZC   W07       60        L41       TXT/mylog.txt related
+ZCZC   W07       40        L43       TXT/myrank.tex related, including peer review
+ZCZC   W07     3000        L70       Studying for other courses
+ZCZC   W07      300        L80       Waching: YouTube, Netflix
+ZCZC   W07     3600        L81       Listening: Music
+ZCZC   W07     2100        L84       Relax, Rest, Nap, and Sleep
+ZCZC   W07      360        L87       Lunch with friend! nyamm..
+ZCZC   W07      120        L88       Workout 
+ZCZC   W07      150        L99       Baking cookies nyam.. nyam.. (๑ᵔ⤙ᵔ๑)° 𐙚 ₊ ⊹ ♡
+ZCZC   W07      120        L99       Playing with kiddzzz in Sunday school (so HaPpYYY^9999)
+ZCZC   W07      720        L99       Social Event with Sahabat Anak at PP-IPTEK TMII
+ZCZC   W07      150        L99       Catching up with old friends ⋆⭒˚𖠋𖠋𖠋*.⋆
+==============================================================================================
+
 =========================================== WEEK 6 ===========================================
 ZCZC   WEEK   Minutes   LogCode        Description
 ----------------------------------------------------------------------------------------------
