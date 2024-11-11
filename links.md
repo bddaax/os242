@@ -96,7 +96,19 @@ permalink: LINKS/
 </details>
 
 
+<details>
+  <summary>WEEK 08</summary>
+
+  * [LFS 12.2 - How to build Linux From Scratch 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+    In this series of videos I demonstrate how to install LFS 12.2 on real hardware with an empty disk. If you've never built Linux From Scratch before, don't worry as I go through the LFS book chapter-by-chapter. From disk configuration, fetching sources and compiling, right through to configuring and booting the final operating system, it's all recorded in these videos. The end result is a fully working Linux From Scratch system all built from publicly available open source code using the excellent instructions in the Linux From Scratch 12.2 book.
+  * [CPU Scheduling in Operating Systems ](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+    A typical process involves both I/O time and CPU time. In a uni programming system like MS-DOS, time spent waiting for I/O is wasted and the CPU is free during this time. In multiprogramming systems, one process can use a CPU while another is waiting for I/O. This is possible only with process scheduling.
+  * [Deadline scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/)
+    Deadline Scheduler is n I/O scheduler for the Linux kernel and guarantees a start service time for a request. Deadline Scheduler imposes deadlines on all I/O operations in order to prevent wanted requests. Two deadlines read and write queues (basically sorted by their deadline) are maintained. For every new request, the scheduler selects which queue will serve for it. Read queues are given high priority than write queues because during reading operations the processes usually get blocked.
+
+</details>
+
 <br>
 <br>
-REV: Mon 04 Nov 2024 23:00
+REV: Mon 11 Oct 2024 23:30
 <hr>
