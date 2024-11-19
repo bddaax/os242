@@ -108,7 +108,16 @@ permalink: LINKS/
 
 </details>
 
+<details>
+  <summary>WEEK 09</summary>
+
+  * [Storage Management : What is Linux SWAP?](https://www.youtube.com/watch?v=0mgefj9ibRE)
+    Swap space is basically the way out if your RAM run out of memory. Basically the Linux Kernel will take some information from the RAM and will take the information to the swap space to free some of it and doesn’t crash due to lack of memory. It’s just like an additional memory for your operating systems 📝. Well, the golden rule is the Swap Area is usually twice the size of your RAM, but it also depends on the ability for your computer to hibernate. Also, it depends on the speed of your hard drive, some say that it’s not recommended to have large swap space if you use SSD as it will decrease it write cycle and life span. So, Yeah! You should read some of those articles about swap space.
+  * [Page File](https://www.youtube.com/watch?v=1VDP5TCAK2c)
+    A page file is a file (duh) where the operating system saves data that is not recently used/of a lower priority from a higher level storage to a lower one (typically from the RAM to disk). This allows the system to have a theoretically larger memory than what is physically available. In modern consumer systems with large memory, it is often not required.
+</details>
+
 <br>
 <br>
-REV: Mon 11 Oct 2024 23:30
+REV: Tue 19 Nov 2024 17:15
 <hr>
