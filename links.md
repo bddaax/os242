@@ -1,8 +1,19 @@
----
+A Basic Guide to LinuxA Basic Guide to Linux---
 permalink: LINKS/
 ---
 
-## [HOME](../)
+# Operating System 24-2
+<span style="color:grey; font-weight:bold; font-size:medium;">by bddaax</span>
+
+<br>
+
+[![HOME](https://img.shields.io/badge/-HOME-C6DBDA?style=for-the-badge&logoColor=green)](https://os.vlsm.org/)
+[![LINKS](https://img.shields.io/badge/-LINKS-55CBCD?style=for-the-badge&logoColor=white)](https://bddaax.github.io/os242/LINKS/)
+[![LOG](https://img.shields.io/badge/-LOG-5778A9?style=for-the-badge&logoColor=white)](https://bddaax.github.io/os242/TXT/mylog.txt)
+[![TARBALL](https://img.shields.io/badge/-TARBALL-BC9578?style=for-the-badge&logoColor=white)](https://os.vlsm.org/Log/bddaax.tar.xz.txt)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bddaax/os242)
+
+<br>
 
 # LINKS
 
@@ -117,7 +128,18 @@ permalink: LINKS/
     A page file is a file (duh) where the operating system saves data that is not recently used/of a lower priority from a higher level storage to a lower one (typically from the RAM to disk). This allows the system to have a theoretically larger memory than what is physically available. In modern consumer systems with large memory, it is often not required.
 </details>
 
+<details>
+  <summary>WEEK 10</summary>
+
+  * [A Basic Guide to Linux](https://www.lifewire.com/beginners-guide-to-linux-4090233)
+    This page explains some fundamental things that we should know when we are going to switch to Linux as our operating system. Starts with what is Linux, how to install it, and basic things to know about Linux.
+  * [Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
+    In Data Structure and Algorithm course, we are introduced to time complexity; that we define using bigO notation. So, what its correlation with operating system? Simply put, our operating system manage resources allocation for our program. If our program running for a long time, surely it will consume pretty much resource. That’s why we need to consider about our program running time.
+  * [Computer Interrupts Explained : Youtube](https://youtu.be/O0mRZeUjEhk?si=9RoHk0oBZT_iO0kV)
+     An interrupt is a signal sent from a device or from software to the operating system. It causes the OS to temporarily stop what it is doing and service the interrupt, using it’s interrupt handler. Interrupts are needed for computers to multitask.
+</details>
+
 <br>
 <br>
-REV: Tue 19 Nov 2024 17:15
+REV: Wed 27 Nov 2024 15:00
 <hr>
